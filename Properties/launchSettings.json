@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "azurepong": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7178",
+      "launchBrowser": false
+    }
+  }
+}
